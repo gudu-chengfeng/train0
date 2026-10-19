@@ -1,0 +1,4 @@
+# 数据集和模型权重体积大且可重新生成，不上传
+data/
+mnist_cnn.pt
+__pycache__/
